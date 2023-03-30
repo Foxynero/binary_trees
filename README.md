@@ -1,6 +1,6 @@
 # C - Binary Trees.
 
-ALX project on Binary Trees - Foster Adu-Gyamfi - Foxynero
+ALX project on Binary Trees - Foster Adu-Gyamfi
 
 ## Tests :heavy_check_mark:
 
